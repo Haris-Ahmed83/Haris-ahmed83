@@ -71,6 +71,19 @@ Summarize academic papers using AI.
 ---
 
 
+
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![Achievements](https://github-readme-achievements.vercel.app/api/?username=Haris-Ahmed83&theme=dark&show_icons=true&border=true&include_all=true)](https://github.com/Haris-Ahmed83)
+
+</div>
+
+
 ## 📊 GitHub Activity
 
 <div align="center">
