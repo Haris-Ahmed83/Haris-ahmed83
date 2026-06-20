@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm Harris Ahmed
+# 👋 Hi, I'm Muhammad Haris
 
 **AI Engineer | Full-Stack Developer | RAG Specialist**
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://frontend-olive-one-a95hrma84g.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://haris.primevoai.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammadharis-tech/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:your.email@example.com)
 
 </div>
@@ -22,10 +22,13 @@ I build production-grade AI systems. My focus is on **Retrieval-Augmented Genera
 
 ## 🛠️ Tech Stack
 
-**AI/ML:** LangChain, LangGraph, RAG, LLMs, Embeddings (BGE), Cross-encoders  
-**Backend:** Python, FastAPI, Qdrant, Groq API, FastEmbed  
-**Frontend:** React, TypeScript, TailwindCSS, Vite  
-**DevOps:** Docker, GitHub Actions, Hugging Face Spaces, Vercel  
+**AI/ML:** LangChain, LangGraph, RAG, LLMs, Embeddings (BGE), Cross-encoders
+
+**Backend:** Python, FastAPI, Qdrant, Groq API, FastEmbed
+
+**Frontend:** React, TypeScript, TailwindCSS, Vite
+
+**DevOps:** Docker, GitHub Actions, Hugging Face Spaces, Vercel
 
 ---
 
@@ -45,7 +48,8 @@ End-to-end RAG system with hybrid search, cross-encoder reranking, and Groq-powe
 | Frontend | React + Vercel |
 | Backend | FastAPI + HF Spaces |
 
-**Accuracy:** 95%+ on complex multi-document queries  
+**Accuracy:** 95%+ on complex multi-document queries
+
 **Cost:** $0/month (all free tiers)
 
 ---
