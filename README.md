@@ -70,6 +70,51 @@ Summarize academic papers using AI.
 
 ---
 
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+### 🎯 GitHub Achievements
+
+[![GitHub Achievements](https://github-readme-achievements.vercel.app/api/?username=Haris-Ahmed83&theme=dark&show_icons=true)](https://github.com/Haris-Ahmed83)
+
+### ⚡ Skills & Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6B6B?style=for-the-badge&logo=qdrant&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 📜 Certifications
+
+<div align="center">
+
+[![RAG](https://img.shields.io/badge/-RAG%20System%20Architecture-00C7B7?style=for-the-badge)]()
+[![LangChain](https://img.shields.io/badge/-LangChain%20Development-1C3C3C?style=for-the-badge)]()
+[![Full%20Stack](https://img.shields.io/badge/-Full%20Stack%20Development-6DB33F?style=for-the-badge)]()
+
+</div>
+
+### 📊 Contribution Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Haris-Ahmed83&color=blue&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Haris-Ahmed83?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Haris-Ahmed83?style=for-the-badge)
+
+</div>
+
 ## 📊 GitHub Activity
 
 <div align="center">
